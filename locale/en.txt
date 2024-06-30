@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 2
+
+## Media
+
+### Title
+panorama_6115FD5F_6A85_5EB4_41BE_041FE76566CE.label = white_panorama03-topaz-sharpen-denoise-enhance-2x
+
+## Popup
+
+### Body
+htmlText_7B06F704_6A8B_2A94_41B4_B40EBEFD6114.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"><B>20 m2</B></SPAN></DIV></BODY></HTML></div>
